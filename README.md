@@ -10,5 +10,6 @@
 
 **Visualização do console:**
 
-https://ibb.co/QJnQDBY
-https://ibb.co/9VdDbJ9
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6ybwXhD/xc1.png" alt="xc1" border="0" /></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/X3GQ79Z/xc2.png" alt="xc2" border="0" /></a>
