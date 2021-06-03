@@ -10,5 +10,5 @@
 
 **Visualização do console:**
 
-<img src = "https://ibb.co/QJnQDBY">
-<img src = "https://ibb.co/9VdDbJ9">
+https://ibb.co/QJnQDBY
+https://ibb.co/9VdDbJ9
